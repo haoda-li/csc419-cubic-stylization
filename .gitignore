@@ -1,3 +1,7 @@
+# VS output and configs
+.vs
+out
+
 # Compiled Object files
 *.slo
 *.lo
