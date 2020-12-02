@@ -207,7 +207,7 @@ L, l     increase / decrease lambda value
 			}
 			break;
 		case 'L':
-			if (lambda < 0.5) {
+			if (lambda <= 0.5) {
 				lambda *= 2.;
 				std::cout << "Current lambda: " << lambda << "\n";
 			}
