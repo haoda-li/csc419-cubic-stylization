@@ -17,7 +17,7 @@ Inside the `build` dir, run
 Then, available operations are listed in the stdout. 
 
 ## Tutorial
-Coming soon
+See `entry.md`
 
 ## Demo video 
 Coming soon
