@@ -38,8 +38,4 @@ out
 build/*
 *.DS_Store
 solution/*.cpp
-src/
-src/
-src/
-src/
 *.ipynb
