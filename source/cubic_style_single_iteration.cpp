@@ -26,7 +26,7 @@ void cubic_style_single_iteration(
 		double mu = 10.0;
 		double t_incr = 2.0;
 		double t_decr = 2.0;
-		double e_abs = 1e-6;
+		double e_abs = 1e-5;
 		double e_rel = 1e-3;
 
 		Eigen::MatrixXd M;

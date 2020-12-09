@@ -98,7 +98,7 @@ void cubic_style_precomputation(
     // initialize Rho, Z, U;
     data.Rho.resize(V.rows());
     //value of Rho is found in the paper
-    data.Rho.setConstant(1e-3);
+    data.Rho.setConstant(1e-4);
     //Z, U are initialized to 0, accodring to the paper.
     data.Z.resize(V.rows(), 3);
     data.Z.setZero();
