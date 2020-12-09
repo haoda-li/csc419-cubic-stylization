@@ -22,4 +22,4 @@ Then, available operations are listed in the stdout.
 See `entry.md`
 
 ## Demo video 
-Coming soon
+https://www.youtube.com/watch?v=FS_Dz847uPo
