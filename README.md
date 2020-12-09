@@ -14,6 +14,8 @@ Inside the `build` dir, run
 ./cubic [path to mesh.obj]
 ```
 
+Then, add at lest one  handle point by clicking on the mesh and hit SPACE to start the iterations. 
+
 Then, available operations are listed in the stdout. 
 
 ## Tutorial
