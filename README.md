@@ -19,7 +19,7 @@ Then, add at lest one  handle point by clicking on the mesh and hit SPACE to sta
 Then, available operations are listed in the stdout. 
 
 ## Tutorial
-See `entry.md`, since Github does not properly process Latex, a better HTML view is provided <a href="https://lihd1003.github.io/notebook/csc419/cubic_stylization.html">here</a>
+See `entry.md`, since Github does not properly process Latex, a better HTML view is provided <a href="https://haoda-li.github.io/notebook/csc419/cubic_stylization.html">here</a>
 
 ## Demo video 
 https://www.youtube.com/watch?v=FS_Dz847uPo
